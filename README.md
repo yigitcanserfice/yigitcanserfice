@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yiğitcan Serfiçe</h1>
-<h3 align="center">Front-End Developer</h3>
-
-- 🌱 I’m currently learning **React Js**
+<h3 align="center">Full Stack Developer</h3>
 
 - 📫 How to reach me **yigit.serfice@gmail.com**
 
